@@ -25,7 +25,10 @@
   "prettier": {
     "printWidth": 90,
     "bracketSpacing": true,
-    "trailingComma": "none"
+    "trailingComma": "none",
+    "semi": false,
+    "singleQuote": true,
+    "jsxSingleQuote": true
   },
   "husky": {
     "hooks": {
